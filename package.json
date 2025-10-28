@@ -1,6 +1,6 @@
 {
-  "name": "clipreact",
-  "version": "1.0.1",
+  "name": "reactclip",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
