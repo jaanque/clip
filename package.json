@@ -1,0 +1,33 @@
+{
+  "name": "clipreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "clip-react": "bin/clip.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaanque/clip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/jaanque/clip/issues"
+  },
+  "homepage": "https://github.com/jaanque/clip#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "commander": "^14.0.2",
+    "fast-glob": "^3.3.3",
+    "fs-extra": "^11.3.2",
+    "html2canvas": "^1.4.1",
+    "inquirer": "^8.2.7",
+    "jspdf": "^3.0.3",
+    "madge": "^8.0.0",
+    "ora": "^5.4.1",
+    "vis-network": "^10.0.2"
+  }
+}
