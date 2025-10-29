@@ -27,8 +27,29 @@ This utility allows you to understand the architecture of your applications, ide
 
 To install Clip-React globally on your system, run the following command:
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="alternative text" width="50">
+
 ```bash
-npm install -g clip-react
+npm install clip-jan
+```
+<img src="https://images.seeklogo.com/logo-png/43/2/yarn-logo-png_seeklogo-438472.png" alt="alternative text" width="50">
+
+```bash
+yarn add clip-jan
+```
+##
+### for global:
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="alternative text" width="50">
+
+```bash
+npm install -g clip-jan
+```
+<img src="https://images.seeklogo.com/logo-png/43/2/yarn-logo-png_seeklogo-438472.png" alt="alternative text" width="50">
+
+```bash
+yarn add -g clip-jan
 ```
 
 ## Usage
@@ -45,9 +66,9 @@ An interactive menu will start, allowing you to select the directory you want to
 
 | Option          | Alias | Description                                       |
 | --------------- | ----- | ------------------------------------------------- |
-| `map`          | `map` | Generates a map.                                 |
-| `--help`       | `-h`  | Displays the command help.                        |
-| `--version`    | `-v`  | Displays the installed version.                   |
+| `map`          | `map` | Generates a map. (clip-react map)                                |
+| `--help`       | `-h`  | Displays the command help. (clip-react -h)                       |
+| `--version`    | `-v`  | Displays the installed version. (clip-react -v)                  |
 
 ## Contributions
 
