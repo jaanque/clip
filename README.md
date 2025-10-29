@@ -1,5 +1,9 @@
 # Clip-React
 
+<img src="src/img/CCLIP.gif" alt="alternative text" width="1000" height="300">
+
+##
+
 ![NPM Version](https://img.shields.io/npm/v/clip-jan)
 ![NPM Last Update](https://img.shields.io/npm/last-update/clip-jan)
 ![NPM Downloads](https://img.shields.io/npm/d18m/clip-jan)
