@@ -1,5 +1,9 @@
 # Clip-React
 
+![NPM Version](https://img.shields.io/npm/v/clip-jan)
+![NPM Last Update](https://img.shields.io/npm/last-update/clip-jan)
+![NPM Downloads](https://img.shields.io/npm/d18m/clip-jan)
+
 <img src="src/img/logo-clip.svg" alt="alternative text" width="100">
 
 **Clip-React is a command-line tool for generating visual and interactive maps of dependencies in React projects.**
