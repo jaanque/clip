@@ -32,7 +32,7 @@ To install Clip-React globally on your system, run the following command:
 ```bash
 npm install clip-jan
 ```
-<img src="https://images.seeklogo.com/logo-png/43/2/yarn-logo-png_seeklogo-438472.png" alt="alternative text" width="50">
+<img src="src/img/yarn-logo.png" alt="alternative text" width="50">
 
 ```bash
 yarn add clip-jan
@@ -46,7 +46,7 @@ yarn add clip-jan
 ```bash
 npm install -g clip-jan
 ```
-<img src="https://images.seeklogo.com/logo-png/43/2/yarn-logo-png_seeklogo-438472.png" alt="alternative text" width="50">
+<img src="src/img/yarn-logo.png" alt="alternative text" width="50">
 
 ```bash
 yarn add -g clip-jan
